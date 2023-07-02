@@ -15,4 +15,5 @@ Contributions are welcome! If you have any ideas or improvements for this integr
 **Acknowledgments**
 
 UiPath - The leading RPA platform.
+
 OpenAI - The creators of ChatGPT and advanced AI language models.
